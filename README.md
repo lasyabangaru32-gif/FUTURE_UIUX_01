@@ -18,4 +18,4 @@
   Figma
   
 🔗 Figma Design Link
-   https://www.figma.com/design/93AYxFpVfVZKuUOwSU4QFn/FUTURE_UI_01?node-id=0-1&t=eFzZAvwMZtYw2D3p-1
+   https://www.figma.com/design/93AYxFpVfVZKuUOwSU4QFn/FUTURE_UI_01?t=eFzZAvwMZtYw2D3p-1
