@@ -1,4 +1,4 @@
-# FUTURE_UIUX_01
+# FUTURE_UX_01
 🏥 Medical Clinic Appointment App
     This project is a UI/UX design for a Medical Clinic Booking Application.
     
